@@ -22,3 +22,8 @@ end
 def reverse_array(backwards)
   backwards.reverse 
 end
+
+def sum_array(sum)
+  i = sum.length  
+  
+    
