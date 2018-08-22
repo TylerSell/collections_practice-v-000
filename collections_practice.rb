@@ -24,11 +24,8 @@ def reverse_array(backwards)
 end
 
 def kesha_maker(dollar)
-  i = 0 
-  while i < dollar
-    dollar[i[2]] = "$"
-    i += 1 
-  end
+  words = []
+  
 end
 
 def find_a(all)
