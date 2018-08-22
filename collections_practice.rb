@@ -23,6 +23,14 @@ def reverse_array(backwards)
   backwards.reverse 
 end
 
+def kesha_maker(dollar)
+
+end
+
+def find_a(all)
+  
+end
+
 def sum_array(sum)
   i = 0 
   total = 0 
@@ -32,5 +40,7 @@ def sum_array(sum)
   end
   total
 end
+
+def add_s(plural)
   
-    
+end
