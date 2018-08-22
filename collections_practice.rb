@@ -25,7 +25,8 @@ end
 
 def kesha_maker(dollar)
   dollar.each do |word|
-    
+    word[2] = "$"
+  end
 end
 
 def find_a(all)
