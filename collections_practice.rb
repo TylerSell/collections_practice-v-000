@@ -52,5 +52,7 @@ def sum_array(sum)
 end
 
 def add_s(plural)
-  
+  i = 1 
+  plural.map! 
+    if 
 end
