@@ -24,9 +24,8 @@ def reverse_array(backwards)
 end
 
 def kesha_maker(dollar)
-  arry = []
-  words = dollar.split
-  
+  dollar.each do |word|
+    
 end
 
 def find_a(all)
