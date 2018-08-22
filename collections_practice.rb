@@ -37,6 +37,7 @@ def find_a(all)
     else
       false
     end
+  end
   new 
 end
 
