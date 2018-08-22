@@ -30,6 +30,7 @@ def sum_array(sum)
     total += sum[i]
     i += 1 
   end
+  total
 end
   
     
