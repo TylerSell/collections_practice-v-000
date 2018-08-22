@@ -24,6 +24,12 @@ def reverse_array(backwards)
 end
 
 def sum_array(sum)
-  i = sum.length  
+  i = 0 
+  total = 0 
+  while i < sum.length
+    total += sum[i]
+    i += 1 
+  end
+end
   
     
