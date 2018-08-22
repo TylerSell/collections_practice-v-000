@@ -15,7 +15,8 @@ def sort_array_char_count(chars)
 end
 
 def swap_elements(swap)
-  
+  swap[1], swap[2] = swap[2], swap[1]
+end
 
 def reverse_array(backwards)
   backwards.reverse 
