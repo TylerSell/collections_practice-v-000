@@ -24,8 +24,9 @@ def reverse_array(backwards)
 end
 
 def kesha_maker(dollar)
-  words = []
+  arry = []
   words = dollar.split
+  
 end
 
 def find_a(all)
