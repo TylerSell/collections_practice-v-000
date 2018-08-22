@@ -9,4 +9,6 @@ def sort_array_desc(decending)
     a <=> b 
   end
 end
-    
+
+def sort_array_char_count(chars)
+  
