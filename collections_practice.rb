@@ -52,7 +52,7 @@ def sum_array(sum)
 end
 
 def add_s(plural)
-  plural.map! do |word|
+  plural.collect! do |word|
     if plural[1] = word 
       word 
     else 
