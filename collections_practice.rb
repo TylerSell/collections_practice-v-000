@@ -25,7 +25,7 @@ end
 
 def kesha_maker(dollar)
   words = []
-  
+  words = dollar.split
 end
 
 def find_a(all)
