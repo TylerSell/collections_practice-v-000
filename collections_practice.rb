@@ -30,7 +30,14 @@ def kesha_maker(dollar)
 end
 
 def find_a(all)
-  
+  new = []
+  all.each do |item|
+    if item[0] == "a"
+      new << item 
+    else
+      false
+    end
+  new 
 end
 
 def sum_array(sum)
